@@ -65,6 +65,8 @@ Install dependencies:
 pip install -r requirements.txt
  
 📊 Dataset Details
+Dataset Link:https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification
+             https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images
 •	Image format: JPG / PNG
 •	Input size: Resized to 128×128×3
 •	Dataset split:
